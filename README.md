@@ -28,4 +28,4 @@ $ npm run preview
 
 ## Customization
 * [Palette](https://beta.tailus.io/docs/customization/palette/) to learn how to customize the color palette.
-* [Plugin](https://beta.tailus.io/docs/customization/plugin/) to learn how to customize the theme.
+* [Plugin](https://beta.tailus.io/docs/customization/plugin/) to learn how to customize the theme."# ada" 
